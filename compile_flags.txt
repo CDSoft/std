@@ -1,0 +1,8 @@
+-std=gnu2x
+-O3
+-g
+-Werror -Wall -Wextra -Weverything
+-DUSE_MALLOC
+-Isrc
+-Wno-unsafe-buffer-usage
+-Wno-declaration-after-statement
